@@ -1,0 +1,22 @@
+2025-11-22 20:41:10,083 - INFO - Pipeline iniciado.
+2025-11-22 20:41:10,086 - ERROR - Erro ao carregar planilha: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-11-22 20:42:25,311 - INFO - Pipeline iniciado.
+2025-11-22 20:42:25,516 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
+2025-11-22 20:42:25,516 - INFO - Iniciando limpeza dos dados...
+2025-11-22 20:42:25,523 - INFO - Limpeza concluída.
+2025-11-22 20:42:25,572 - INFO - Parquet salvo em C:\Users\leosouza\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
+2025-11-22 20:42:25,595 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
+2025-11-22 20:42:25,595 - INFO - Pipeline finalizado com sucesso.
+2025-11-23 01:08:43,797 - INFO - Pipeline iniciado.
+2025-11-23 01:08:44,112 - ERROR - Erro ao carregar planilha: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-11-23 01:13:03,269 - INFO - Pipeline iniciado.
+2025-11-23 01:13:03,272 - ERROR - Erro ao carregar planilha: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-11-23 01:13:50,491 - INFO - Pipeline iniciado.
+2025-11-23 01:13:50,494 - ERROR - Erro ao carregar planilha: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2025-11-23 01:16:44,417 - INFO - Pipeline iniciado.
+2025-11-23 01:16:44,630 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
+2025-11-23 01:16:44,630 - INFO - Iniciando limpeza dos dados...
+2025-11-23 01:16:44,638 - INFO - Limpeza concluída.
+2025-11-23 01:16:44,835 - INFO - Parquet salvo em C:\Users\Leonardo\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
+2025-11-23 01:16:45,113 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
+2025-11-23 01:16:45,113 - INFO - Pipeline finalizado com sucesso.
