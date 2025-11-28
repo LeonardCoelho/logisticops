@@ -3,7 +3,7 @@
 2025-11-22 20:42:25,311 - INFO - Pipeline iniciado.
 2025-11-22 20:42:25,516 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
 2025-11-22 20:42:25,516 - INFO - Iniciando limpeza dos dados...
-2025-11-22 20:42:25,523 - INFO - Limpeza concluída.
+2025-11-22 20:42:25,523 - INFO - Limpeza concluï¿½da.
 2025-11-22 20:42:25,572 - INFO - Parquet salvo em C:\Users\leosouza\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
 2025-11-22 20:42:25,595 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
 2025-11-22 20:42:25,595 - INFO - Pipeline finalizado com sucesso.
@@ -16,7 +16,52 @@
 2025-11-23 01:16:44,417 - INFO - Pipeline iniciado.
 2025-11-23 01:16:44,630 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
 2025-11-23 01:16:44,630 - INFO - Iniciando limpeza dos dados...
-2025-11-23 01:16:44,638 - INFO - Limpeza concluída.
+2025-11-23 01:16:44,638 - INFO - Limpeza concluï¿½da.
 2025-11-23 01:16:44,835 - INFO - Parquet salvo em C:\Users\Leonardo\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
 2025-11-23 01:16:45,113 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
 2025-11-23 01:16:45,113 - INFO - Pipeline finalizado com sucesso.
+2025-11-27 22:40:18,914 - INFO - Pipeline iniciado.
+2025-11-27 22:40:19,257 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
+2025-11-27 22:40:19,257 - INFO - Iniciando limpeza dos dados...
+2025-11-27 22:40:19,269 - INFO - Limpeza concluï¿½da.
+2025-11-27 22:41:05,482 - INFO - Pipeline iniciado.
+2025-11-27 22:41:05,680 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
+2025-11-27 22:41:05,680 - INFO - Iniciando limpeza dos dados...
+2025-11-27 22:41:05,686 - INFO - Limpeza concluï¿½da.
+2025-11-27 22:41:05,745 - INFO - Parquet salvo em C:\Users\leosouza\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
+2025-11-27 22:41:05,764 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
+2025-11-27 22:41:05,764 - INFO - Pipeline finalizado com sucesso.2025-11-27 22:58:26,821 - INFO - Pipeline iniciado.
+2025-11-27 22:58:27,004 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
+2025-11-27 22:58:27,004 - INFO - Iniciando limpeza dos dados...
+2025-11-27 22:58:27,009 - INFO - Limpeza concluída.
+2025-11-27 22:58:27,033 - INFO - Parquet salvo em C:\Users\leosouza\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
+2025-11-27 22:58:27,052 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
+2025-11-27 22:58:27,052 - INFO - Pipeline finalizado com sucesso.
+2025-11-27 22:58:50,031 - INFO - Pipeline iniciado.
+2025-11-27 22:58:50,228 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
+2025-11-27 22:58:50,228 - INFO - Iniciando limpeza dos dados...
+2025-11-27 22:58:50,235 - INFO - Limpeza concluída.
+2025-11-27 22:58:50,264 - INFO - Parquet salvo em C:\Users\leosouza\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
+2025-11-27 22:58:50,286 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
+2025-11-27 22:58:50,286 - INFO - Pipeline finalizado com sucesso.
+2025-11-27 22:59:02,654 - INFO - Pipeline iniciado.
+2025-11-27 22:59:02,840 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
+2025-11-27 22:59:02,840 - INFO - Iniciando limpeza dos dados...
+2025-11-27 22:59:02,845 - INFO - Limpeza concluída.
+2025-11-27 22:59:02,868 - INFO - Parquet salvo em C:\Users\leosouza\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
+2025-11-27 22:59:02,888 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
+2025-11-27 22:59:02,888 - INFO - Pipeline finalizado com sucesso.
+2025-11-27 23:00:05,571 - INFO - Pipeline iniciado.
+2025-11-27 23:00:05,794 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
+2025-11-27 23:00:05,794 - INFO - Iniciando limpeza dos dados...
+2025-11-27 23:00:05,802 - INFO - Limpeza concluída.
+2025-11-27 23:00:05,829 - INFO - Parquet salvo em C:\Users\leosouza\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
+2025-11-27 23:00:05,849 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
+2025-11-27 23:00:05,849 - INFO - Pipeline finalizado com sucesso.
+2025-11-27 23:00:39,824 - INFO - Pipeline iniciado.
+2025-11-27 23:00:40,020 - INFO - Arquivo carregado: dataset_sintetico_logistica.xlsx
+2025-11-27 23:00:40,020 - INFO - Iniciando limpeza dos dados...
+2025-11-27 23:00:40,026 - INFO - Limpeza concluída.
+2025-11-27 23:00:40,049 - INFO - Parquet salvo em C:\Users\leosouza\OneDrive\Projetos\logisticops\data_processed\cargas.parquet
+2025-11-27 23:00:40,073 - INFO - Tabela 'cargas_logisticas' salva em SQLite.
+2025-11-27 23:00:40,073 - INFO - Pipeline finalizado com sucesso.
