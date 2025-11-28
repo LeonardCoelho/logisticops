@@ -1,8 +1,5 @@
----
-config:
-      theme: redux
----
 
+```mermaid
 graph TD;
     A[Planilha XLSX] --> B[Extração: extract.py];
     B --> C[Transformação: transform.py];
